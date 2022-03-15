@@ -697,25 +697,25 @@ html[dir=ltr] .info li span:nth-child(1) {
 }
 
 .img-one {
-	background: url('img1.jpg'), gray;
+	background: url('images/img1.jpg'), gray;
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover; 
 }
 .img-two {
-	background: url('img2.jpg'), gray;
+	background: url('images/img2.jpg'), gray;
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover; 
 }
 .img-three {
-	background: url('img3.jpg'), gray;
+	background: url('images/img3.jpg'), gray;
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover; 
 }
 .img-four {
-	background: url('img4.jpg'), gray;
+	background: url('images/img4.jpg'), gray;
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover; 
